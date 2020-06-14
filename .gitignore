@@ -53,3 +53,6 @@ tl_2017_47_tabblock10.shx
 tl_2019_47_tract.shp.iso.xml
 tl_2019_47_tract.shx
 tl_2017_47_tabblock10.dbf
+*.dbf
+*.shp
+BEDB7120
