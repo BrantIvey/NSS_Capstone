@@ -56,3 +56,6 @@ tl_2017_47_tabblock10.dbf
 *.dbf
 *.shp
 BEDB7120
+us_block.cpg
+us_block.prj
+us_block.shx
