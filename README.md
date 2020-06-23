@@ -5,3 +5,5 @@ Accessibility is critical to meet our needs for education, telemedicine, telecom
 As the digital divide grows, many, mostly in rural communities, are facing the reality that lack of broadband access is necessary to perform many of those daily activities.
 
 Analyzing data from the Federal Communications Commission (FCC), American Community Survey (US Census Bureau), Bureau of Labor Statistics, and the Tennessee Department of Education clear trends were discovered between those who have broandband access and those who don't.
+
+https://public.tableau.com/profile/brant.ivey#!/vizhome/NSSCapstone-TennesseesDigitalDivide/Story1
